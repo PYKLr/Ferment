@@ -20,7 +20,7 @@ Ferment is a simple password generator built with Python and Tkinter that allows
 You can clone this repository to your local machine using Git:
 
 ```bash
-git clone https://github.com/your-username/ferment-password-generator.git
+git clone https://github.com/PYKLr/ferment.git
 ```
 
 ### 2. Install required packages
