@@ -33,7 +33,7 @@ Ferment uses the secrets and string libraries, which are part of Python's standa
 Once you have cloned the repository, navigate to the directory where the project is located. Then, simply run the Python script to start the GUI:
 
 ```bash
-python ferment_gui.py
+python ferment_ui.py
 ```
 This will open a window where you can:
 
@@ -52,7 +52,7 @@ The Passgen class is responsible for generating secure passwords. It:
 - Uses Python's secrets module for cryptographically secure random numbers.
 - Combines ASCII letters (uppercase and lowercase), digits, and punctuation to generate strong passwords.
 
-### GUI Class (ferment_gui.py)
+### GUI Class (ferment_ui.py)
 
 The Ferment class creates the GUI for the application. It allows users to:
 - Input a desired password length.
